@@ -9,6 +9,8 @@ SvelteJS component for switch or toggle a boolean.The component is Svelte implem
 
 [Click here for Storybook link](https://svelte-switch.netlify.app/)
 
+[REPL Link](https://svelte.dev/repl/72a37aee9ae24705b7d874def7e1f270)
+
 ## Installation
 
 ```
@@ -23,7 +25,7 @@ yarn add svelte-switch
 
 ```
 <script>
-  import Switch from "./../../src";
+  import Switch from "svelte-switch";
 
   let checkedValue = true;
 

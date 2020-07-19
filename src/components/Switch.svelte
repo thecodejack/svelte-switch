@@ -175,7 +175,6 @@
   }
 
   function onChangeTrigger(event) {
-    // onChange && onChange(!checked, event, id);
     checked = !checked;
     dispatch("change", {
       checked: checked,
