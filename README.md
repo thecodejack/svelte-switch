@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/v/svelte-switch.svg)](https://www.npmjs.com/package/svelte-switch)
 [![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/svelte-switch.svg)](https://www.npmjs.com/package/svelte-switch)
 
-SvelteJS component for switch or toggle a boolean.The component is Svelte implementation of [react-switch](https://github.com/markusenglund/react-switch).
+SvelteJS component for switch or toggle a boolean. User would be able to drag or click for toggling.
 
 ## Demo
 
@@ -82,7 +82,7 @@ The switch is {checkedValue ? 'on' : 'off'}.
 
 ## Credits
 
-Component is reimplementation [react-switch](https://github.com/markusenglund/react-switch). Complete credit goes to author and contributors of [react-dropzone](https://github.com/markusenglund/react-switch).
+Component is reimplementation [react-switch](https://github.com/markusenglund/react-switch). Complete credit goes to author and contributors of [react-switch](https://github.com/markusenglund/react-switch).
 
 ## License
 
