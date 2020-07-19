@@ -7,7 +7,6 @@
 
   //props
   export let checked;
-  export let onChange;
   export let disabled = false;
   export let offColor = "#888";
   export let onColor = "#080";
