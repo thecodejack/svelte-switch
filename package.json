@@ -14,6 +14,9 @@
   },
   "author": "thecodejack",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/thecodejack/svelte-switch"
+  },
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.10.2",
