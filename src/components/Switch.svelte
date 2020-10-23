@@ -54,7 +54,7 @@
   //event handlers
 
   function onDragStart(clientX) {
-    inputRef.focus();
+    inputRef && inputRef.focus && inputRef.focus();
     state.startX = clientX;
     state.hasOutline = true;
     state.dragStartingTime = Date.now();
