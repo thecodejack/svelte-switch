@@ -1,6 +1,6 @@
 {
   "name": "svelte-switch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Svelte component for toggle button",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
