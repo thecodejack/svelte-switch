@@ -188,8 +188,8 @@
   }
 
   //Hack since components should always to starting with Capital letter and props are camelCasing
-  let CIcon = defaultCheckedIcon;
-  let UIcon = defaultUncheckedIcon;
+  let CIcon = checkedIcon;
+  let UIcon = unCheckedIcon;
 
   //styles
 
