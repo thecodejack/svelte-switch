@@ -169,7 +169,7 @@
 
   function onClick(event) {
     event.preventDefault();
-    inputRef.focus();
+    inputRef && inputRef.focus && inputRef.focus();
     onChangeTrigger(event);
     state.hasOutline = false;
   }
