@@ -23,7 +23,7 @@ yarn add svelte-switch
 
 ## Usage
 
-```
+```svelte
 <script>
   import Switch from "svelte-switch";
 
