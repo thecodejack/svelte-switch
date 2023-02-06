@@ -20,6 +20,7 @@
   export let height = 28;
   export let width = 56;
   export let id = "";
+  export let divId = "";
   export let containerClass = "";
 
   const dispatch = createEventDispatcher();
@@ -303,7 +304,7 @@
 
 </style>
 
-<div class={containerClass} style={rootStyle}>
+<div id={divId} class={containerClass} style={rootStyle}>
   <div
     class="react-switch-bg"
     style={backgroundStyle}
