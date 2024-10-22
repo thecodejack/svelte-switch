@@ -19,7 +19,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "7.12.10",
+    "@babel/core": "7.25.9",
     "@rollup/plugin-commonjs": "17.0.0",
     "@rollup/plugin-node-resolve": "11.1.0",
     "@storybook/addon-actions": "6.1.14",
